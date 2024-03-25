@@ -6,7 +6,7 @@ import { cn } from "@/lib/utils"
 import { Announcement } from "@/components/announcement"
 import { ExamplesNav } from "@/components/examples-nav"
 import { Icons } from "@/components/icons"
-import SignupForm from "@components/signup-form"
+import SignupForm from "@/components/signup-form"
 import {
   PageActions,
   PageHeader,
